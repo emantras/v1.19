@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Themes>
+	<Category CatId="1" name="Animals"  ThumbUrl="Animals.jpg">
+		<SubCategory SubCatId="1" ThumbUrl="Farm.jpg">Farm</SubCategory>	
+		<SubCategory SubCatId="2" ThumbUrl="Pets.jpg">Pets</SubCategory>		
+		<SubCategory SubCatId="3" ThumbUrl="Zoo.jpg">Zoo</SubCategory>
+		<!--<SubCategory SubCatId="4" ThumbUrl="Forest.jpg">Forest</SubCategory>
+		<SubCategory SubCatId="5" ThumbUrl="Ocean.jpg">Ocean</SubCategory>
+		<SubCategory SubCatId="6" ThumbUrl="Dinosaurs.jpg">Dinosaurs</SubCategory>-->
+	</Category>
+	<Category CatId="2" name="Seasonal" ThumbUrl="Events.jpg">
+		<SubCategory SubCatId="1" ThumbUrl="Christmas.jpg">Christmas</SubCategory>		
+		<SubCategory SubCatId="2" ThumbUrl="Birthday.jpg">Birthday</SubCategory>		
+		<SubCategory SubCatId="3" ThumbUrl="Valentine.jpg">Valentines</SubCategory>
+		<SubCategory SubCatId="4" ThumbUrl="season.jpg">Season</SubCategory>
+		<SubCategory SubCatId="5" ThumbUrl="Weather.jpg">Weather</SubCategory>
+		<!--<SubCategory SubCatId="6" ThumbUrl="Vacation.jpg">Vacation</SubCategory>
+		<SubCategory SubCatId="7" ThumbUrl="Halloween.jpg">Halloween</SubCategory>
+		<SubCategory SubCatId="8" ThumbUrl="Kwanzaa.jpg">Kwanzaa</SubCategory>-->
+	</Category>
+	<Category CatId="3" name="People" ThumbUrl="People.jpg">
+		<SubCategory SubCatId="1" ThumbUrl="Family.jpg">Family</SubCategory>		
+		<SubCategory SubCatId="2" ThumbUrl="Friends.jpg">Friends</SubCategory>		
+		<SubCategory SubCatId="3" ThumbUrl="Community.jpg">CommunityHelpers</SubCategory>
+		<SubCategory SubCatId="4" ThumbUrl="Careers.jpg">Careers</SubCategory>
+	</Category>
+	
+	<Category CatId="4" name="Places">
+		<SubCategory SubCatId="1" ThumbUrl="Country.jpg">Country</SubCategory>
+		<SubCategory SubCatId="2" ThumbUrl="City.jpg">City</SubCategory>
+	</Category>
+	
+	<Category CatId="5" name="AmericanHistory">
+		<SubCategory SubCatId="1" ThumbUrl="FamousPlaces.jpg">FamousPlaces</SubCategory>				
+		<SubCategory SubCatId="2" ThumbUrl="AmericanSymbols.jpg">AmericanSymbols</SubCategory>				
+	</Category>
+	
+	<!--<Category CatId="6" name="Things" ThumbUrl="Farm.jpg">
+		<SubCategory SubCatId="1" ThumbUrl="Transportation.jpg">Transportation</SubCategory>		
+		<SubCategory SubCatId="2" ThumbUrl="Toys.jpg">Toys</SubCategory>		
+		<SubCategory SubCatId="3" ThumbUrl="Sports.jpg">Sports</SubCategory>
+		<SubCategory SubCatId="4" ThumbUrl="Music.jpg">Music and Art</SubCategory>		
+	</Category>
+	
+	<Category CatId="7" name="Fantasy">
+		<SubCategory SubCatId="1" ThumbUrl="FairyTale.jpg" name="Fairy Tale"/>		
+		<SubCategory SubCatId="2" ThumbUrl="SciFi.jpg" name="Sci Fi"/>		
+		<SubCategory SubCatId="3" ThumbUrl="Mythology.jpg" name="Mythology"/>		
+	</Category>
+	
+	<Category CatId="8" name="Plants">
+		<SubCategory SubCatId="1" ThumbUrl="Trees.jpg" name="Trees"/>		
+		<SubCategory SubCatId="2" ThumbUrl="Bushes.jpg" name="Bushes"/>		
+		<SubCategory SubCatId="3" ThumbUrl="Flowers.jpg" name="Flowers"/>
+		<SubCategory SubCatId="4" ThumbUrl="Vegetables.jpg" name="Vegetables"/>
+		<SubCategory SubCatId="5" ThumbUrl="Fruits.jpg" name="Fruits"/>		
+	</Category>
+	
+	<Category CatId="9" name="Shapes">
+		<SubCategory SubCatId="1" ThumbUrl="Lines.jpg" name="Lines"/>		
+		<SubCategory SubCatId="2" ThumbUrl="Arrows.jpg" name="Arrows"/>		
+		<SubCategory SubCatId="3" ThumbUrl="2-Dshapes.jpg" name="2-D shapes"/>
+		<SubCategory SubCatId="4" ThumbUrl="3-Dshapes.jpg" name="3-D shapes"/>		
+	</Category>-->
+
+</Themes>
